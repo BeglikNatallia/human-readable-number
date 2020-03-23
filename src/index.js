@@ -26,7 +26,7 @@ module.exports = function toReadable (number) {
     };
 
     const dozens = {
-        0: ' ',
+        0: '',
         2: 'twenty',
         3: 'thirty',
         4: 'forty',
